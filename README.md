@@ -1,1 +1,3 @@
 # Meal-Solver
+
+This code prompts the user to enter an amount of money for a meal and the number of people eating. It then calculates the maximum number of tacos and empanadas that can be bought with the given amount of money. The code then iterates through all possible combinations of tacos and empanadas, checking if the total number of items is evenly divisible by the number of diners. If the total cost of the meal matches the amount of money the user entered, the program prints the number of tacos and empanadas that can be bought with no change left over. If there are no possible combinations of tacos and empanadas that meet these criteria, the program informs the user that a meal cannot be bought without having change left over.
